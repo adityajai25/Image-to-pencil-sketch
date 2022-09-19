@@ -15,7 +15,6 @@
 👉 This can be done by dividing the grayscale image by the inverted blurry image.
 
 
-👉 These things can be done using cv2 library.
-
 ![dog_sketch2](https://user-images.githubusercontent.com/82924828/191066150-a770a274-546a-47eb-ad4b-24fdcdd8fdfe.jpg)
 
+👉 These things can be done using cv2 library.
